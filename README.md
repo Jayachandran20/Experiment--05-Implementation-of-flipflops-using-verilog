@@ -122,8 +122,8 @@ Run the program and choose RTL viewer to get RTL realization.
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: M.JAYACHANDRAN
 RegisterNumber:  212222240038
-#### PROGRAM FOR SR FLIPFLOP
 ```
+#### PROGRAM FOR SR FLIPFLOP
 ```
 module exp05(s,r,q,qbar,cik);
 input s,r,cik;
