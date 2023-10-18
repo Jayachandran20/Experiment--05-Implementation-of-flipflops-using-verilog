@@ -174,38 +174,38 @@ endmodule
 ```
 ### RTL LOGIC FOR FLIPFLOPS 
 
-i) SR Flip-Flop:
+### SR Flip-Flop:
 
 ![Screenshot 2023-09-22 094447](https://github.com/aldrinlijo04/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118544279/a669c1a2-141a-4106-91d0-28b51aaaf85c)
 
 
-ii) D Flip-Flop:
+## D Flip-Flop:
 
 ![Screenshot 2023-10-06 092741](https://github.com/aldrinlijo04/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118544279/7e08db4b-bd5d-44fb-a1a3-cf84dfde87a1)
 
-iii) JK Flip-Flop:
+## JK Flip-Flop:
 
 ![Screenshot 2023-09-22 092440](https://github.com/aldrinlijo04/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118544279/959c93e0-1fbd-4fe1-95f2-186ef98066fd)
 
-iv) T Flip-Flop:
+## T Flip-Flop:
 
 ![Screenshot 2023-10-06 095112](https://github.com/aldrinlijo04/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118544279/afabd3d6-68e5-41c3-b108-9b3a95258d1f)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
-(i) SR Flip-Flop:
+## SR Flip-Flop:
 
 ![Screenshot 2023-10-06 094710](https://github.com/aldrinlijo04/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118544279/2343ff65-0387-4e0e-8c58-d5985f3a21f9)
 
-(ii) D Flip-Flop:
+## D Flip-Flop:
 
 ![fdsf](https://github.com/aldrinlijo04/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118544279/adf6a1aa-df25-491f-8cde-72fbba3cb300)
 
-(iii) JK Flip-Flop:
+## JK Flip-Flop:
 ![Screenshot 2023-09-22 094447](https://github.com/aldrinlijo04/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118544279/cf3a5809-d9b2-4af2-83d5-f74866ecb0c8)
 
 
-(iv) T FLIP-FLOP:
+## T FLIP-FLOP:
 ![Screenshot 2023-10-06 095620](https://github.com/aldrinlijo04/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118544279/24db9291-72d7-443d-9186-fc34c982dfe4)
 
 
